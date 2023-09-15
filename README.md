@@ -2,10 +2,6 @@
   <img height="150" src="https://cdn.discordapp.com/avatars/319827233042857985/a_d123ca31585515c147faeb021e93083c.gif"  />
 </div>
 
-###
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=d-arw1n.d-arw1n&left_color=aqua&right_color=aqua"  />
 </div>
