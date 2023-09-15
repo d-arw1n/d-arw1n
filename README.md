@@ -52,6 +52,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/d-arw1n/d-arw1n/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/d-arw1n/d-arw1n/output/snake.svg](https://profile-readme-generator.com/assets/snake.svg)https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
